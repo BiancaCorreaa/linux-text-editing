@@ -1,0 +1,6 @@
+Name: Bianca
+Date: 11/20/2025
+
+Today I learned how to create and edit files in Linux using the terminal.
+I practiced using the commands touch, nano and ls.
+This helped me understand how to work with files inside an AWS EC2 instance.
